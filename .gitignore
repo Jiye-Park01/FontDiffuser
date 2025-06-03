@@ -181,3 +181,28 @@ tags
 
 # wandb
 wandb
+
+__pycache__/
+*.zip
+
+*.pickle
+
+.subset.tro.37
+
+*.txt
+
+outputs/
+
+dataset/
+IAM*
+data_examples/
+.env
+
+*.env
+
+config/
+build/
+dist/
+*.egg-info/
+oov.*
+image_to_ttf/
