@@ -1,4 +1,4 @@
-# Handwriting Style Generation & Sythesis (생성형 모델 기반의 손글씨 합성 모델델) 
+# Handwriting Style Generation & Sythesis (생성형 모델 기반의 손글씨 합성 모델) 
 
 ## Dataset
 IAM Dataset & Google Font (English - Handwritten)
